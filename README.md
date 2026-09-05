@@ -9,4 +9,7 @@ Welcome to my data analytics portfolio! I specialize in transforming raw, messy 
 Student Performance:
 [Git hub link](https://github.com/PooraniAsogan/StudentPerformance/blob/main/student_performance.ipynb)
 
+Customer Behavior Analysis:
+[Git Hub link](https://github.com/PooraniAsogan/CustomerBehaviorAnalysis)
+
 
